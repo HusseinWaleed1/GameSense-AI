@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+sentence-transformers
+transformers
+torch
+faiss-cpu
+matplotlib
